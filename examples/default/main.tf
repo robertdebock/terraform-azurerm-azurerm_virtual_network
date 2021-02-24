@@ -1,6 +1,6 @@
 module "azurerm_resource_group" {
   source  = "robertdebock/azurerm_resource_group/azurerm"
-  version = "1.0.2"
+  version = "1.0.3"
   name    = "test_rg"
 }
 
